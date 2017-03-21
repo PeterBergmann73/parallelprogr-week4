@@ -1,0 +1,32 @@
+[debug] 
+[debug] Initial source changes: 
+[debug] 	removed:Set()
+[debug] 	added: Set()
+[debug] 	modified: Set(/home/slava/Downloads/Projects/Scala/Courses/ParallelProgramming/Week4/barneshut/src/main/scala/barneshut/package.scala)
+[debug] Invalidated products: Set()
+[debug] External API changes: API Changes: Set()
+[debug] Modified binary dependencies: Set()
+[debug] Initial directly invalidated sources: Set(/home/slava/Downloads/Projects/Scala/Courses/ParallelProgramming/Week4/barneshut/src/main/scala/barneshut/package.scala)
+[debug] 
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set()
+[debug] 	binary dep: Set()
+[debug] 	external source: Set()
+[debug] All initially invalidated sources: Set(/home/slava/Downloads/Projects/Scala/Courses/ParallelProgramming/Week4/barneshut/src/main/scala/barneshut/package.scala)
+[info] Compiling 1 Scala source to /home/slava/Downloads/Projects/Scala/Courses/ParallelProgramming/Week4/barneshut/target/scala-2.11/classes...
+[debug] Getting compiler-interface from component compiler for Scala 2.11.7
+[debug] Getting compiler-interface from component compiler for Scala 2.11.7
+[debug] Running cached compiler 46a69d67, interfacing (CompilerInterface) with Scala compiler version 2.11.7
+[debug] Calling Scala compiler with arguments  (CompilerInterface):
+[debug] 	-deprecation
+[debug] 	-bootclasspath
+[debug] 	/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/home/slava/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+[debug] 	-classpath
+[debug] 	/home/slava/Downloads/Projects/Scala/Courses/ParallelProgramming/Week4/barneshut/target/scala-2.11/classes:/home/slava/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-2.2.4.jar:/home/slava/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.2.jar:/home/slava/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.2.jar:/home/slava/.ivy2/cache/com.storm-enroute/scalameter-core_2.11/jars/scalameter-core_2.11-0.6.jar:/home/slava/.ivy2/cache/org.apache.commons/commons-math3/jars/commons-math3-3.2.jar:/home/slava/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.1.jar:/home/slava/.ivy2/cache/com.github.scala-blitz/scala-blitz_2.11/jars/scala-blitz_2.11-1.1.jar:/home/slava/.ivy2/cache/org.scala-lang.modules/scala-swing_2.11/bundles/scala-swing_2.11-1.0.1.jar
+[debug] Scala compilation took 1.644297204 s
+[debug] New invalidations:
+[debug] 	Set()
+[debug] Initial set of included nodes: Set()
+[debug] Previously invalidated, but (transitively) depend on new invalidations:
+[debug] 	Set()
+[debug] All newly invalidated sources after taking into account (previously) recompiled sources:Set()
